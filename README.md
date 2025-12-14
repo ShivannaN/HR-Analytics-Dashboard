@@ -103,3 +103,6 @@ Conclusion
 
 This HR Analytics Dashboard demonstrates how raw HR data can be transformed into actionable insights using analytics and visualization tools.
 It is suitable for HR managers, leadership teams, and data analysts to support strategic workforce decisions.
+
+Contact Shivu N S LinkedIn: linkedin.com/in/shivannan
+GitHub: github.com/ShivannaN
